@@ -1,0 +1,35 @@
+
+<html>
+<head>
+    <title>AppNovatica</title>
+    <style>
+		body { background-color: #263238; color: #ffffff; font-family: sans; }
+		a { color: #ffffff; }
+		h2 { font-size: 1.25em; }
+    </style>
+</head>
+<body>
+
+<div style="display: table; margin: 0 auto; padding-left: 32px; padding-right: 32px;">
+    <p>
+        <h2>AppNovatica</h2>
+        <br/>
+    </p>
+
+    <p>
+        <h2>Personal data remove instructions</h2>
+        <br/>
+        - We do not collect any personal data in background, but you are able to create your personal account.<br><br>
+        - If you wish that your account (with all data that you have added to this account) needs to be deleted,
+          you need to contact our support via email <tt>appnovatica@gmail.com</tt>.
+    </p><br/>
+
+    <p>
+        Contact us: appnovatica@gmail.com<br/>
+        Legal: <a href="https://appnovatica.github.io/privacy_policy.html">Privacy Policy</a>
+        <br/>
+    </p>
+</div>
+
+</body>
+<html>
